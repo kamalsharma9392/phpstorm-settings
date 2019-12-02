@@ -1,5 +1,8 @@
 <application>
   <component name="UISettings">
-    <option name="PRESENTATION_MODE_FONT_SIZE" value="12" />
+    <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
+    <option name="EDITOR_TAB_LIMIT" value="99" />
+    <option name="MAX_CLIPBOARD_CONTENTS" value="10" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
   </component>
 </application>
