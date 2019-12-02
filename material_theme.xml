@@ -1,9 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="isHighContrast" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="selectedTheme" value="DARKER" />
-    <option name="userId" value="15926095:16d3c096d6b:-8000" />
-    <option name="version" value="4.9.2.1" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="ffd866" />
+    <option name="selectedTheme" value="MONOKAI" />
+    <option name="userId" value="2d7b8c89:16ec60f1edf:-8000" />
+    <option name="version" value="4.10.0" />
   </component>
 </application>
