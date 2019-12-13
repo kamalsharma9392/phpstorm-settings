@@ -4,12 +4,12 @@
     <property name="created">2019-12-02T17:04:05</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-12-03T20:30:00</property>
+    <property name="modified">2019-12-13T19:31:17</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
